@@ -1,10 +1,10 @@
-# Привет, я Андрей
-Учусь **Go** и backend-разработке.  
-Сейчас: олимпиадные задачи, pet-проекты.
+# I'm Andrew, 16 y.o student from Russian Federation
+Learn **Go** and **backend-development**.  
+Focus: olympiad tasks, pet-projects.
 ## Проекты
 - [spa-router-go](https://github.com/Neffildtok/spa-router-go-PROD-task-) — симулятор SPA-роутера на Go
-## Сейчас учу
-- Go: struct, срезы, strings, работа с stdin
+## Now teaching
+- Go
 - Git и GitHub
-## Связь
+## Contact
 - GitHub: [@Neffildtok](https://github.com/Neffildtok)
