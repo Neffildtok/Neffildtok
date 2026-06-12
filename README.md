@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**Neffildtok/Neffildtok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Привет, я Андрей
+Учусь **Go** и backend-разработке.  
+Сейчас: олимпиадные задачи, pet-проекты.
+## Проекты
+- [spa-router-go](https://github.com/Neffildtok/spa-router-go-PROD-task-) — симулятор SPA-роутера на Go
+## Сейчас учу
+- Go: struct, срезы, strings, работа с stdin
+- Git и GitHub
+## Связь
+- GitHub: [@Neffildtok](https://github.com/Neffildtok)
