@@ -5,6 +5,6 @@ Focus: olympiad tasks, pet-projects.
 - [spa-router-go](https://github.com/Neffildtok/spa-router-go-PROD-task-) — simulator of SPA-router on Golang
 ## Now teaching
 - Go
-- Git и GitHub
+- Git and GitHub
 ## Contact
 - GitHub: [@Neffildtok](https://github.com/Neffildtok)
